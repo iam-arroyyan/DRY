@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "884352795172",
+    "firebase_url": "https://drys-2711e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "drys-2711e",
+    "storage_bucket": "drys-2711e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884352795172:android:aca6eabbb60b8007254eb1",
+        "android_client_info": {
+          "package_name": "com.company.dry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfY4729yQZ-aK8pmABqX-p4_TL_hMK2qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
